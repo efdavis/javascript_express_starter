@@ -1,0 +1,19 @@
+{
+  "name": "javascript_express_starter",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "node": "^8.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "nodemon": "^1.12.1",
+    "webpack": "^3.6.0"
+  }
+}
